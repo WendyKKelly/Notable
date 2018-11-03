@@ -19,5 +19,17 @@ Worked through Sitepoint tutorial to practice a few things.
 
 8. Hurray.
 
+***
+
+9. Next step was to learn about now.sh -- Onward! Happily read documentation and signed up, too. 
+
+10. I like it more than heroku at the moment. What a sweet space.
+
+11. Found a really cheap alias and added a little instruction to the package.json file making it super super easy to just push changes.
+
+12. So I was able to make small changes ... and *break* something. Of course!
+
+
+
 
 
